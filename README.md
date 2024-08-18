@@ -1,4 +1,4 @@
-# NeuroPpred-FSF
+# NeuroPpred-SHE
 #介绍一下我的论文吧#
 hand,py is the method of manual feature extraction
 t5.py is the method for embedding feature extraction
